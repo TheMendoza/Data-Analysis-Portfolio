@@ -10,12 +10,7 @@ Over the past decade, I have built a robust career in the healthcare industry. H
 
 Technical Proficiency:
 
-Recently, I completed a 12-week intensive Data Technician Bootcamp with Just IT, where I gained proficiency in:
-
-Tableau
-Power BI
-SQL
-Python
+Recently, I completed a 12-week intensive Data Technician Bootcamp with Just IT, where I gained proficiency in Tableau, Power BI, SQL and Python
 
 My unique blend of creative problem-solving, technical proficiency, and a strong passion for data analytics sets me apart. I am eager to leverage these skills to drive insights and innovations.
 
@@ -37,3 +32,6 @@ This is a repository to showcase skills, share projects and track my progress in
 
   ## Portfolio Projects
   In this section, I will list data analytics projects briefly describing the analytical tools used to solve cases.
+
+  ### Insights into Healthcare Costs | Identifying Key Drivers
+  
