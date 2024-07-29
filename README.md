@@ -21,7 +21,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
   - Python
     - [Insights into Healthcare Costs | Identifying Key Drivers](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#insights-into-healthcare-costs--identifying-key-drivers)
-    - 
+    - [Metropolitan Police | Stop & Search 2023]
+    - [UK Police Force | Street Crimes - Jan-Apr 2024]
 - [Tableau] [View my Tableau Public](https://public.tableau.com/app/profile/jonnel.mendoza/vizzes)
 - Power BI
 - SQL
