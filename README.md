@@ -40,7 +40,7 @@ This is a repository to showcase skills, share projects and track my progress in
   <p><strong>Tools Used for this Project</strong><br>Python, Pandas, Seaborn, Matplotlib and PowerPoint</p>
 
 ## Training & Education
-05/24-Present Just IT Training Ltd, London
+2024, Just IT Training Ltd, London
 Digital Skills Bootcamp: Data Technician (12-week program)
 - Data, Big Data and Data Structures
 - Data Architecture &Governance
@@ -59,6 +59,7 @@ Digital Skills Bootcamp: Data Technician (12-week program)
 BA Interior & Spatial Design
 
 2004-2007 College, Saint Francis Xavier, London
+A Level or Btec: National Diploma: Art & Design, NVQ: Art & Design
 
 2001-2004 School, Bishop Thomas Grant, London
 GCSE: A-C grades in subjects including Maths and English
@@ -70,6 +71,6 @@ Edit here
 ## Contacts
 - LinkedIn: [@jonnelmendoza](www.linkedin.com/in/jonnelmendoza)
 - Email: jonnelmendoza@btinternet.com
-A Level or Btec: National Diploma: Art & Design, NVQ: Art & Design
+
 
 
