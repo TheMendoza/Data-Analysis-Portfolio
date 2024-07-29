@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/TheMendoza/Data-Analysis-Portfolio/tree/main?tab=readme-ov-file#about)
 - [Portfolio Projects]
   - Python
-    -[Insights into Healthcare Costs | Identifying Key Drivers]
+    -[Insights into Healthcare Costs | Identifying Key Drivers](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#insights-into-healthcare-costs--identifying-key-drivers)
 - [Tableau] [View my Tableau Public](https://public.tableau.com/app/profile/jonnel.mendoza/vizzes)
 - Power BI
 - SQL
