@@ -1,4 +1,6 @@
-# Data-Analysis-Portfolio
+# Jonnel Mendoza - Data Analyst Portfolio
+
+## About
 
 I hold a Bachelor’s degree in Interior & Spatial Design from the Chelsea College of Arts. My journey into data analytics is driven by my natural curiosity and passion for uncovering insights through analysis and visualization. I believe that design and storytelling with data aren't too far apart, as both involve crafting compelling narratives and solutions through a blend of creativity and logic.
 
@@ -17,3 +19,6 @@ Python
 
 My unique blend of creative problem-solving, technical proficiency, and a strong passion for data analytics sets me apart. I am eager to leverage these skills to drive insights and innovations.
 
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+## Table of Contents
