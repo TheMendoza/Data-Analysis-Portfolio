@@ -43,6 +43,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Executive Summary Dashboard](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/PowerBI_Executive_Summary_Finance_Report_LIGHT.png)
     - [Sales Report Dashboard](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/PowerBI_sales_report.png)
   - SQL
+    - [Pizza Data Analysis](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/sql.md)
   - Excel
   - Access
     - Database Design | Cardiac Clinic Healthcare Management System 
