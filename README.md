@@ -60,6 +60,9 @@ BA Interior & Spatial Design
 
 2004-2007 College, Saint Francis Xavier, London
 
+2001-2004 School, Bishop Thomas Grant, London
+GCSE: A-C grades in subjects including Maths and English
+
 ## Certificates
 Edit here
 - Edit here
@@ -69,5 +72,4 @@ Edit here
 - Email: jonnelmendoza@btinternet.com
 A Level or Btec: National Diploma: Art & Design, NVQ: Art & Design
 
-2001-2004 School, Bishop Thomas Grant, London
-GCSE: (8) A-C grades in subjects including Maths and English
+
