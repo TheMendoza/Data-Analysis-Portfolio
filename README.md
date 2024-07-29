@@ -29,7 +29,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [UK Police Force | Street Crimes Dashboard: Monitoring Trends and Hotspots](https://github.com/TheMendoza/Data-Analysis-Portfolio/blob/main/README.md#uk-police-force--street-crimes-dashboard-monitoring-trends-and-hotspots)
     - Metropolitan Police | Street Crimes Data - Jan-Apr 2024
     - Report Turnaround Times - Radiology Department
-    - Mandatory Training Compliance Dashboard
+    - [Mandatory Training Compliance Dashboard](https://github.com/TheMendoza/DataInsightsLibrary/blob/main/Mandatory%20Training%20Compliance%20Dashboard.pdf)
     - Patient Satisfaction Survey - Imaging Department
     - [The Wealth of Nations | Top 20 Highest Ranking GDP - per capita](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/Assignment1_Data_Visualization.pdf)
     - Changes in the British Industry
