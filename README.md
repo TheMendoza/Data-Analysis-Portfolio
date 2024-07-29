@@ -27,3 +27,13 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python
     -[Insights into Healthcare Costs | Identifying Key Drivers]
 - [Tableau] [View my Tableau Public](https://public.tableau.com/app/profile/jonnel.mendoza/vizzes)
+- Power BI
+- SQL
+- Excel
+
+- [Training & Education]
+- [Certificates]
+- [Contact]
+
+  ## Portfolio Projects
+  In this section, I will list data analytics projects briefly describing the analytical tools used to solve cases.
