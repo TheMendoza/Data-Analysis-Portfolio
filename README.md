@@ -35,6 +35,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - Changes in the British Industry
     - Superstore Profit Dashboard
   - Power BI
+    - [Marvel Super Heroes](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/SuperHeroes_Exercise.png)
     - [UK Street Crimes | KPI Cards - Jan-May 2024](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/UKStreetCrimesKPICards.gif)
     - [Metropolitan Police | Stop & Search - Jan-Apr 2024](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/PowerBI_MP_stopandsearch_2024_Jan-Apr.JPG)
     - [Metropolitan Police | Street Crimes - Jan-Apr 2024](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/PowerBI_MP_crime_data_2024_Jan-Aprfinale.JPG)
