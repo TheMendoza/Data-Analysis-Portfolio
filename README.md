@@ -38,3 +38,28 @@ This is a repository to showcase skills, share projects and track my progress in
   <p><strong>Purpose and Objectives</strong><br>To understand the factors that influence medical insurance costs and to develop predictive model for estimating healthcare expenses. My analysis will be focused on both the    descriptive and diagnostic aspect, leveraging individual data to build models that can forecast or estimate future healthcare expenditures, rather than solely describing past trends or prescribing actions.</p>
   <p><strong>Scope</strong><li>Loading and preprocessing the data</li><li>Conducting Exploratory Data Analysis (EDA)</li><li>Visualizations</li><li>Performing correlation analysis</li><li>Summarizing the findings</li>       <li>Deriving actionable insights to guide insurance companies and public health initiatives</li></p>
   <p><strong>Tools Used for this Project</strong><br>Python, Pandas, Seaborn, Matplotlib and PowerPoint</p>
+
+## Training & Education
+05/24-Present Just IT Training Ltd, London
+Digital Skills Bootcamp: Data Technician (12-week program)
+- Data, Big Data and Data Structures
+- Data Architecture &Governance
+- Data Analysis using MS Excel.
+- Introduction to Data Visualisation with MS Excel Tableau and Power BI
+- Module 4- Data Analytics – Power BI
+- Introduction to Database- Access & SQL Assignment
+- Azure Fundamentals - Module 4- Fundamentals of data analytics
+- Azure Fundamentals - Module 3- Non -relational data in Azure - Access (DB)
+- Azure Fundamentals - Module 2- relational data in Azure (DB)
+- Azure Fundamentals - Module 1- core data concepts- Software SAAS, Cloud
+- Introduction using R analytical - Data cleaning and EDA with R Studio and R programming.
+- Data Analysis via Python programming- Utilising Pandas, Matplotlib &Seaborn
+
+2007-2009 University, Chelsea College of Art & Design, London
+BA Interior & Spatial Design
+
+2004-2007 College, Saint Francis Xavier, London
+A Level or Btec: National Diploma: Art & Design, NVQ: Art & Design
+
+2001-2004 School, Bishop Thomas Grant, London
+GCSE: (8) A-C grades in subjects including Maths and English
