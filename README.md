@@ -60,6 +60,14 @@ This is a repository to showcase skills, share projects and track my progress in
   <p><strong>Scope</strong><li>Loading and preprocessing the data</li><li>Conducting Exploratory Data Analysis (EDA)</li><li>Visualizations</li><li>Performing correlation analysis</li><li>Summarizing the findings</li>       <li>Deriving actionable insights to guide insurance companies and public health initiatives</li></p>
   <p><strong>Tools Used for this Project</strong><br>Python, Pandas, Seaborn, Matplotlib and PowerPoint</p>
 
+## Tableau
+  ### UK Police Force | Street Crimes Dashboard: Monitoring Trends and Hotspots
+<p><strong><a href="https://github.com/TheMendoza/TheMendoza.github.io/blob/main/UK%20Police%20Force%20Street%20Crime%20Dashboard%20Overview.pdf">See Full Overview</a></strong></p>
+<p><strong>Purpose and Objectives</strong><br>Monitoring trends and identifying hotspots in street crime in the UK</p>
+<p><strong>Questions it should answer:</strong> What are the trends in street crime over the specified period? Where are the hotspots of street crime located?</p>
+<p><strong>Decisions it should inform:</strong> Deployment of police resources, adjustment of crime prevention strategies, and allocation of investigative efforts.</p>
+<p><strong>Tools Used for this Project</strong><br>Tableau, Excel, Power BI, and Python</p>
+
 ## Training & Education
 2024, Just IT Training Ltd, London
 Digital Skills Bootcamp: Data Technician (12-week program)
