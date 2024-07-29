@@ -89,6 +89,7 @@ GCSE: A-C grades in subjects including Maths and English
 - [IBM SkillsBuild - Artificial Intelligence Fundamentals](https://www.credly.com/users/jonnel-mendoza)
 - [IBM - Big Data Foundations - Level 2](https://www.credly.com/users/jonnel-mendoza)
 - [IBM - Spark Level 1](https://www.credly.com/users/jonnel-mendoza)
+- [Fathom Advisor Certification - Financial and Non-Financial Reporting](https://github.com/TheMendoza/DataInsightsLibrary/blob/main/FATHOM%20CERTIFICATE_Jonnel%20Mendoza%20-%202024-02-03.pdf)
 
 ## Contacts
 - LinkedIn: [@jonnelmendoza](www.linkedin.com/in/jonnelmendoza)
