@@ -31,7 +31,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - Report Turnaround Times - Radiology Department
     - Mandatory Training Compliance Dashboard
     - Patient Satisfaction Survey - Imaging Department
-    - The Wealth of Nations | Top 20 Highest Ranking GDP - per capita
+    - [The Wealth of Nations | Top 20 Highest Ranking GDP - per capita](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/Assignment1_Data_Visualization.pdf)
     - Changes in the British Industry
     - Superstore Profit Dashboard
   - Power BI
