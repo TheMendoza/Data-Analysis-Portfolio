@@ -26,7 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Metropolitan Police | Stop & Search 2023]
     - [UK Police Force | Street Crimes - Jan-Apr 2024]
   - Tableau [View my Tableau Public](https://public.tableau.com/app/profile/jonnel.mendoza/vizzes)
-    - [UK Police Force | Street Crimes Dashboard: Monitoring Trends and Hotspots](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/UK%20Police%20Force%20Street%20Crime%20Dashboard%20Overview.pdf)
+    - [UK Police Force | Street Crimes Dashboard: Monitoring Trends and Hotspots](https://github.com/TheMendoza/Data-Analysis-Portfolio/blob/main/README.md#uk-police-force--street-crimes-dashboard-monitoring-trends-and-hotspots)
     - Metropolitan Police | Street Crimes Data - Jan-Apr 2024
     - Report Turnaround Times - Radiology Department
     - Mandatory Training Compliance Dashboard
