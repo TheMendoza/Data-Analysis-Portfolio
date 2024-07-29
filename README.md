@@ -21,7 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/TheMendoza/Data-Analysis-Portfolio/tree/main?tab=readme-ov-file#about)
 - [Portfolio Projects](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
-  - Python
+  - [Python](https://github.com/TheMendoza/Data-Analysis-Portfolio/blob/main/README.md#python)
     - [Insights into Healthcare Costs | Identifying Key Drivers](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#insights-into-healthcare-costs--identifying-key-drivers)
     - [Metropolitan Police | Stop & Search 2023]
     - [UK Police Force | Street Crimes - Jan-Apr 2024]
