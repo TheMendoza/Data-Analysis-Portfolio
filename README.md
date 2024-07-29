@@ -43,6 +43,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - Sales Report Dashboard
   - SQL
   - Excel
+  - Access
+    - Database Design | Cardiac Clinic Healthcare Management System 
 
 - [Training & Education](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#training--education)
 - [Certificates](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
