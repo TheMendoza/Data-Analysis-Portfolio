@@ -30,10 +30,10 @@ This is a repository to showcase skills, share projects and track my progress in
     - Metropolitan Police | Street Crimes Data - Jan-Apr 2024
     - Report Turnaround Times - Radiology Department
     - [Mandatory Training Compliance Dashboard](https://github.com/TheMendoza/DataInsightsLibrary/blob/main/Mandatory%20Training%20Compliance%20Dashboard.pdf)
-    - Patient Satisfaction Survey - Imaging Department
+    - [Patient Satisfaction Survey - Imaging Department](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/Tableau_PSS_results_Imaging.JPG)
     - [The Wealth of Nations | Top 20 Highest Ranking GDP - per capita](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/Assignment1_Data_Visualization.pdf)
-    - Changes in the British Industry
-    - Superstore Profit Dashboard
+    - [Changes in the British Industry](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/Changes_in_British_Industry_tableau.JPG)
+    - [Superstore Profit Dashboard](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/Tableau_1st_dashboard.JPG)
   - Power BI
     - [Marvel Super Heroes](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/SuperHeroes_Exercise.png)
     - [UK Street Crimes | KPI Cards - Jan-May 2024](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/UKStreetCrimesKPICards.gif)
