@@ -18,17 +18,18 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/TheMendoza/Data-Analysis-Portfolio/tree/main?tab=readme-ov-file#about)
-- [Portfolio Projects]
+- [Portfolio Projects](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
   - Python
-    -[Insights into Healthcare Costs | Identifying Key Drivers](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#insights-into-healthcare-costs--identifying-key-drivers)
+    - [Insights into Healthcare Costs | Identifying Key Drivers](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#insights-into-healthcare-costs--identifying-key-drivers)
+    - 
 - [Tableau] [View my Tableau Public](https://public.tableau.com/app/profile/jonnel.mendoza/vizzes)
 - Power BI
 - SQL
 - Excel
 
 - [Training & Education](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#training--education)
-- [Certificates]
-- [Contact]
+- [Certificates](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
+- [Contact](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#contacts)
 
 ## Portfolio Projects
   In this section, I will list data analytics projects briefly describing the analytical tools used to solve cases.
