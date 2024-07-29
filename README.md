@@ -84,8 +84,11 @@ A Level or Btec: National Diploma: Art & Design, NVQ: Art & Design
 GCSE: A-C grades in subjects including Maths and English
 
 ## Certificates
-Edit here
-- Edit here
+- [IBM SkillsBuild - Project Management Fundamentals](https://www.credly.com/users/jonnel-mendoza)
+- [IBM SkillsBuild - Data Fundamentals](https://www.credly.com/users/jonnel-mendoza)
+- [IBM SkillsBuild - Artificial Intelligence Fundamentals](https://www.credly.com/users/jonnel-mendoza)
+- [IBM - Big Data Foundations - Level 2](https://www.credly.com/users/jonnel-mendoza)
+- [IBM - Spark Level 1](https://www.credly.com/users/jonnel-mendoza)
 
 ## Contacts
 - LinkedIn: [@jonnelmendoza](www.linkedin.com/in/jonnelmendoza)
