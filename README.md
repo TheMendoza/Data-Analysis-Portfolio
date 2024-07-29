@@ -23,8 +23,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
   - [Python](https://github.com/TheMendoza/Data-Analysis-Portfolio/blob/main/README.md#python)
     - [Insights into Healthcare Costs | Identifying Key Drivers](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#insights-into-healthcare-costs--identifying-key-drivers)
-    - [Metropolitan Police | Stop & Search 2023]
-    - [UK Police Force | Street Crimes - Jan-Apr 2024]
+    - [Metropolitan Police | Stop & Search 2023] - coming soon
+    - [UK Police Force | Street Crimes - Jan-Apr 2024] - coming soon
   - Tableau [View my Tableau Public](https://public.tableau.com/app/profile/jonnel.mendoza/vizzes)
     - [UK Police Force | Street Crimes Dashboard: Monitoring Trends and Hotspots](https://github.com/TheMendoza/Data-Analysis-Portfolio/blob/main/README.md#uk-police-force--street-crimes-dashboard-monitoring-trends-and-hotspots)
     - Metropolitan Police | Street Crimes Data - Jan-Apr 2024
@@ -35,7 +35,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - Changes in the British Industry
     - Superstore Profit Dashboard
   - Power BI
-    - UK Street Crimes | KPI Cards - Jan-May 2024
+    - [UK Street Crimes | KPI Cards - Jan-May 2024](UKStreetCrimesKPICards.gif?raw=true")
     - Metropolitan Police | Stop & Search - Jan-Apr 2024
     - Metropolitan Police | Street Crimes - Jan-Apr 2024
     - Coffee Shop Insights: Distribution and Reviews
