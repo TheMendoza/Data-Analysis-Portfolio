@@ -26,3 +26,4 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects]
   - Python
     -[Insights into Healthcare Costs | Identifying Key Drivers]
+- [Tableau] [View my Tableau Public](https://public.tableau.com/app/profile/jonnel.mendoza/vizzes)
