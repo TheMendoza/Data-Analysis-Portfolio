@@ -25,7 +25,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Insights into Healthcare Costs | Identifying Key Drivers](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#insights-into-healthcare-costs--identifying-key-drivers)
     - [Metropolitan Police | Stop & Search 2023]
     - [UK Police Force | Street Crimes - Jan-Apr 2024]
-- Tableau [View my Tableau Public](https://public.tableau.com/app/profile/jonnel.mendoza/vizzes)
+  - Tableau [View my Tableau Public](https://public.tableau.com/app/profile/jonnel.mendoza/vizzes)
     - [UK Police Force | Street Crimes Dashboard: Monitoring Trends and Hotspots](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/UK%20Police%20Force%20Street%20Crime%20Dashboard%20Overview.pdf)
     - Metropolitan Police | Street Crimes Data - Jan-Apr 2024
     - Report Turnaround Times - Radiology Department
@@ -34,15 +34,15 @@ This is a repository to showcase skills, share projects and track my progress in
     - The Wealth of Nations | Top 20 Highest Ranking GDP - per capita
     - Changes in the British Industry
     - Superstore Profit Dashboard
-- Power BI
+  - Power BI
     - UK Street Crimes | KPI Cards - Jan-May 2024
     - Metropolitan Police | Stop & Search - Jan-Apr 2024
     - Metropolitan Police | Street Crimes - Jan-Apr 2024
     - Coffee Shop Insights: Distribution and Reviews
     - Executive Summary Dashboard
     - Sales Report Dashboard
-- SQL
-- Excel
+  - SQL
+  - Excel
 
 - [Training & Education](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#training--education)
 - [Certificates](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
