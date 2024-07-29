@@ -22,3 +22,5 @@ My unique blend of creative problem-solving, technical proficiency, and a strong
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
+- [About](https://github.com/TheMendoza/Data-Analysis-Portfolio/tree/main?tab=readme-ov-file#about)
+- 
