@@ -23,4 +23,6 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/TheMendoza/Data-Analysis-Portfolio/tree/main?tab=readme-ov-file#about)
-- 
+- [Portfolio Projects]
+  - Python
+    -[Insights into Healthcare Costs | Identifying Key Drivers]
