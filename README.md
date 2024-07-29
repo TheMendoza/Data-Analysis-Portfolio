@@ -35,12 +35,12 @@ This is a repository to showcase skills, share projects and track my progress in
     - Changes in the British Industry
     - Superstore Profit Dashboard
   - Power BI
-    - [UK Street Crimes | KPI Cards - Jan-May 2024](UKStreetCrimesKPICards.gif?raw=true")
-    - Metropolitan Police | Stop & Search - Jan-Apr 2024
-    - Metropolitan Police | Street Crimes - Jan-Apr 2024
-    - Coffee Shop Insights: Distribution and Reviews
-    - Executive Summary Dashboard
-    - Sales Report Dashboard
+    - [UK Street Crimes | KPI Cards - Jan-May 2024](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/UKStreetCrimesKPICards.gif)
+    - [Metropolitan Police | Stop & Search - Jan-Apr 2024](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/PowerBI_MP_stopandsearch_2024_Jan-Apr.JPG)
+    - [Metropolitan Police | Street Crimes - Jan-Apr 2024](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/PowerBI_MP_crime_data_2024_Jan-Aprfinale.JPG)
+    - [Coffee Shop Insights: Distribution and Reviews](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/PowerBI_coffeeshopinsightsfinal.JPG)
+    - [Executive Summary Dashboard](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/PowerBI_Executive_Summary_Finance_Report_LIGHT.png)
+    - [Sales Report Dashboard](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/PowerBI_sales_report.png)
   - SQL
   - Excel
   - Access
