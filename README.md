@@ -26,7 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - SQL
 - Excel
 
-- [Training & Education]
+- [Training & Education](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#training--education)
 - [Certificates]
 - [Contact]
 
@@ -59,6 +59,14 @@ Digital Skills Bootcamp: Data Technician (12-week program)
 BA Interior & Spatial Design
 
 2004-2007 College, Saint Francis Xavier, London
+
+## Certificates
+Edit here
+- Edit here
+
+## Contacts
+- LinkedIn: [@jonnelmendoza](www.linkedin.com/in/jonnelmendoza)
+- Email: jonnelmendoza@btinternet.com
 A Level or Btec: National Diploma: Art & Design, NVQ: Art & Design
 
 2001-2004 School, Bishop Thomas Grant, London
