@@ -45,7 +45,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL
     - [Pizza Data Analysis](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/sql.md)
   - Excel
-  - Access
+  - Microsoft Access
     - [Database Design | Cardiac Clinic Healthcare Management System](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/MicrosoftAccess-HealthcareManagementSystem-CardiacClinic.pdf) 
 
 - [Training & Education](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#training--education)
@@ -69,6 +69,12 @@ This is a repository to showcase skills, share projects and track my progress in
 <p><strong>Questions it should answer:</strong> What are the trends in street crime over the specified period? Where are the hotspots of street crime located?</p>
 <p><strong>Decisions it should inform:</strong> Deployment of police resources, adjustment of crime prevention strategies, and allocation of investigative efforts.</p>
 <p><strong>Tools Used for this Project</strong><br>Tableau, Excel, Power BI, and Python</p>
+
+## Microsoft Access | Database Design
+  ### Database Design | Cardiac Clinic Healthcare Management System
+<p><strong><a href="https://github.com/TheMendoza/TheMendoza.github.io/blob/main/MicrosoftAccess-HealthcareManagementSystem-CardiacClinic.pdf">See Full Overview</a></strong></p>  
+<p><strong>Purpose and Objectives</strong><br>Create a database for a Cardiac Clinic to help them set up a Healthcare Management System using Microsoft Access, which includes various tables and forms to manage patient data, appointments, diagnostics, and medical records efficiently. The database aims to manage and streamline the Cardiac Clinic's operations, including tracking patient information, scheduling appointments, storing diagnostic imaging results, maintaining medical records, and managing care pathways.</p>
+<p><strong>Tools Used for this Project</strong><br>Microsoft Access</p>
 
 ## Training & Education
 2024, Just IT Training Ltd, London
