@@ -46,7 +46,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Pizza Data Analysis](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/sql.md)
   - Excel
   - Microsoft Access
-    - [Database Design | Cardiac Clinic Healthcare Management System](https://github.com/TheMendoza/TheMendoza.github.io/blob/main/MicrosoftAccess-HealthcareManagementSystem-CardiacClinic.pdf) 
+    - [Database Design | Cardiac Clinic Healthcare Management System](https://github.com/TheMendoza/Data-Analysis-Portfolio/blob/main/README.md#microsoft-access--database-design) 
 
 - [Training & Education](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#training--education)
 - [Certificates](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
