@@ -50,6 +50,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Database Design | Cardiac Clinic Healthcare Management System](https://github.com/TheMendoza/Data-Analysis-Portfolio/blob/main/README.md#microsoft-access--database-design) 
 
 - [Training & Education](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#training--education)
+- [Volunteering]()
 - [Certificates](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#certificates)
 - [Contact](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#contacts)
 
@@ -110,6 +111,9 @@ A Level or Btec: National Diploma: Art & Design, NVQ: Art & Design
 
 2001-2004 School, Bishop Thomas Grant, London
 GCSE: A-C grades in subjects including Maths and English
+
+## Volunteering
+2024-present, Neighbourhood Watch, Main Coordinator
 
 ## Certificates
 - [IBM SkillsBuild - Project Management Fundamentals](https://www.credly.com/users/jonnel-mendoza)
