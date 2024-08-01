@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/TheMendoza/Data-Analysis-Portfolio/tree/main?tab=readme-ov-file#about)
 - [Portfolio Projects](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#portfolio-projects)
   - [Python](https://github.com/TheMendoza/Data-Analysis-Portfolio/blob/main/README.md#python)
-    - [Cardiac Triage Questionnaire App]()
+    - [Cardiac Triage Questionnaire App](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#cardiac-triage-questionnaire-app)
     - [Insights into Healthcare Costs | Identifying Key Drivers](https://github.com/TheMendoza/Data-Analysis-Portfolio?tab=readme-ov-file#insights-into-healthcare-costs--identifying-key-drivers)
     - [Metropolitan Police | Stop & Search 2023] - coming soon
     - [UK Police Force | Street Crimes - Jan-Apr 2024] - coming soon
