@@ -14,8 +14,6 @@ Recently, I completed a 12-week intensive Data Technician Bootcamp with Just IT,
 
 My unique blend of creative problem-solving, technical proficiency, and a strong passion for data analytics sets me apart. I am eager to leverage these skills to drive insights and innovations.
 
-My CV in [pdf](https://github.com/TheMendoza/DataInsightsLibrary/blob/main/Mendoza%2C%20Jonnel%20New%20CV%202024.pdf)
-
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
